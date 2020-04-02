@@ -1,2 +1,0 @@
-# tcmReactMarathon
-Created with CodeSandbox
